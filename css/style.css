@@ -1326,10 +1326,10 @@ nav.navbar.navbar-default {
 /*-- responsive-design --*/
 @media (max-width: 480px) {
 .gallery h3{
-		font-size: 1.4em;
+		font-size: 1.2em;
 }
 .gallery p{
-		font-size: 0.5em; 
+		font-size: 0.3em; 
 }
 .logo {
     float: left;
@@ -1447,10 +1447,10 @@ nav.navbar.navbar-default {
     width: 88%;
 }
 .gallery h3{
-		font-size: 1.4em;
+		font-size: 1.2em;
 }
 .gallery p{
-		font-size: 0.5em; 
+		font-size: 0.3em; 
 }
 .logo {
     float: left;
@@ -1470,10 +1470,10 @@ nav.navbar.navbar-default {
 /*-- responsive-design --*/
 @media (max-width: 375px) {
 .gallery h3{
-		font-size: 1.4em;
+		font-size: 1.2em;
 }
 .gallery p{
-		font-size: 0.5em; 
+		font-size: 0.3em; 
 }
 .logo {
     float: left;
