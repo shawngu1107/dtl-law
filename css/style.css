@@ -1325,6 +1325,9 @@ nav.navbar.navbar-default {
 }
 /*-- responsive-design --*/
 @media (max-width: 480px) {
+.gallery p{
+		font-size: 1.4em; 
+	}
 .logo {
     float: left;
     width: 37%;
