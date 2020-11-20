@@ -1326,14 +1326,14 @@ nav.navbar.navbar-default {
 /*-- responsive-design --*/
 @media (max-width: 480px) {
 .gallery h3{
-	font-size: 1.4em;
-	}
+		font-size: 1.4em;
+}
 .gallery p{
-	font-size: 0.5em; 
-	}
+		font-size: 0.5em; 
+}
 .logo {
     float: left;
-    width: 37%;
+    width: 45%;
 }
 .sb-search.sb-search-open, .no-js .sb-search {
     width: 60%;
@@ -1446,6 +1446,12 @@ nav.navbar.navbar-default {
     margin: 5em 0 0;
     width: 88%;
 }
+.gallery h3{
+		font-size: 1.4em;
+}
+.gallery p{
+		font-size: 0.5em; 
+}
 .logo {
     float: left;
     width: 45%;
@@ -1463,8 +1469,15 @@ nav.navbar.navbar-default {
 }
 /*-- responsive-design --*/
 @media (max-width: 375px) {
+.gallery h3{
+		font-size: 1.4em;
+}
+.gallery p{
+		font-size: 0.5em; 
+}
 .logo {
-    width: 48%;
+    float: left;
+    width: 45%;
 }
 .navbar-default .navbar-toggle {
     margin-top: -74px;
