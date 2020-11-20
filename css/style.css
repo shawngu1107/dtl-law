@@ -493,6 +493,7 @@ nav.navbar.navbar-default {
 /*-----------------*/
 figure.effect-apollo {
 	background: #3498db;
+	width: 50%；
 }
 figure.effect-apollo img {
 	opacity: 0.95;
@@ -500,6 +501,7 @@ figure.effect-apollo img {
 	transition: opacity 0.35s, transform 0.35s;
 	-webkit-transform: scale3d(1.05,1.05,1);
 	transform: scale3d(1.05,1.05,1);
+	width: 50%;
 }
 figure.effect-apollo figcaption::before {
 	position: absolute;
